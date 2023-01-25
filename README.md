@@ -1,5 +1,17 @@
 # chatgpt-bot-telegram
+```
+git clone https://github.com/c2bot/chatgpt_telegram
+```
+
 How to Install: <BR>
-npm i <BR>
-nano .env (ADD TELEGRAM API AND OPENAI API) <BR>
+```
+npm i 
+```
+
+```
+nano .env
+```
+
+```
 node index.js
+```
